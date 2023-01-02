@@ -1,0 +1,1236 @@
+{
+  "brickLayout": [
+    
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.5,
+        "y": 1.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.5,
+        "y": 1.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.5,
+        "y": 2.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.5,
+        "y": 2.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.5,
+        "y": 3.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.5,
+        "y": 4.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.5,
+        "y": 7.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.5,
+        "y": 10.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.5,
+        "y": 11.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.5,
+        "y": 11.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.5,
+        "y": 12.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.5,
+        "y": 13.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.5,
+        "y": 14.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.0,
+        "y": 0.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.0,
+        "y": 1.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.0,
+        "y": 2.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.0,
+        "y": 2.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.0,
+        "y": 3.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.0,
+        "y": 4.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.0,
+        "y": 5.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.0,
+        "y": 7.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.0,
+        "y": 9.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.0,
+        "y": 10.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.0,
+        "y": 11.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.0,
+        "y": 11.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.0,
+        "y": 12.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.0,
+        "y": 13.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.0,
+        "y": 14.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -2.0,
+        "y": 15.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.5,
+        "y": 0.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.5,
+        "y": 1.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.5,
+        "y": 1.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.5,
+        "y": 2.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.5,
+        "y": 2.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.5,
+        "y": 3.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.5,
+        "y": 4.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.5,
+        "y": 5.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.5,
+        "y": 7.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.5,
+        "y": 9.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.5,
+        "y": 10.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.5,
+        "y": 11.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.5,
+        "y": 11.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.5,
+        "y": 12.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.5,
+        "y": 13.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.5,
+        "y": 14.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.0,
+        "y": -0.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.0,
+        "y": 0.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.0,
+        "y": 1.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.0,
+        "y": 2.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.0,
+        "y": 2.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.0,
+        "y": 4.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.0,
+        "y": 5.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.0,
+        "y": 6.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.0,
+        "y": 7.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.0,
+        "y": 8.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.0,
+        "y": 9.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.0,
+        "y": 10.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.0,
+        "y": 11.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.0,
+        "y": 11.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.0,
+        "y": 13.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.0,
+        "y": 14.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -1.0,
+        "y": 15.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -0.5,
+        "y": 0.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -0.5,
+        "y": 1.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -0.5,
+        "y": 1.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -0.5,
+        "y": 2.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -0.5,
+        "y": 2.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -0.5,
+        "y": 4.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -0.5,
+        "y": 5.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -0.5,
+        "y": 6.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -0.5,
+        "y": 7.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -0.5,
+        "y": 8.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -0.5,
+        "y": 9.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -0.5,
+        "y": 10.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -0.5,
+        "y": 11.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -0.5,
+        "y": 11.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -0.5,
+        "y": 13.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": -0.5,
+        "y": 14.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.0,
+        "y": -0.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.0,
+        "y": 0.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.0,
+        "y": 1.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.0,
+        "y": 2.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.0,
+        "y": 5.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.0,
+        "y": 6.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.0,
+        "y": 7.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.0,
+        "y": 7.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.0,
+        "y": 8.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.0,
+        "y": 9.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.0,
+        "y": 11.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.0,
+        "y": 14.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.0,
+        "y": 15.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.5,
+        "y": 0.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.5,
+        "y": 1.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.5,
+        "y": 1.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.5,
+        "y": 2.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.5,
+        "y": 2.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.5,
+        "y": 4.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.5,
+        "y": 5.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.5,
+        "y": 6.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.5,
+        "y": 7.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.5,
+        "y": 8.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.5,
+        "y": 9.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.5,
+        "y": 10.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.5,
+        "y": 11.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.5,
+        "y": 11.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.5,
+        "y": 13.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 0.5,
+        "y": 14.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.0,
+        "y": -0.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.0,
+        "y": 0.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.0,
+        "y": 1.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.0,
+        "y": 2.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.0,
+        "y": 2.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.0,
+        "y": 4.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.0,
+        "y": 5.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.0,
+        "y": 6.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.0,
+        "y": 7.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.0,
+        "y": 8.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.0,
+        "y": 9.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.0,
+        "y": 10.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.0,
+        "y": 11.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.0,
+        "y": 11.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.0,
+        "y": 13.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.0,
+        "y": 14.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.0,
+        "y": 15.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.5,
+        "y": 0.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.5,
+        "y": 1.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.5,
+        "y": 1.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.5,
+        "y": 2.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.5,
+        "y": 2.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.5,
+        "y": 3.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.5,
+        "y": 4.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.5,
+        "y": 5.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.5,
+        "y": 7.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.5,
+        "y": 9.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.5,
+        "y": 10.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.5,
+        "y": 11.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.5,
+        "y": 11.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.5,
+        "y": 12.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.5,
+        "y": 13.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 1.5,
+        "y": 14.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.0,
+        "y": 0.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.0,
+        "y": 1.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.0,
+        "y": 2.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.0,
+        "y": 2.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.0,
+        "y": 3.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.0,
+        "y": 4.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.0,
+        "y": 5.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.0,
+        "y": 7.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.0,
+        "y": 9.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.0,
+        "y": 10.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.0,
+        "y": 11.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.0,
+        "y": 11.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.0,
+        "y": 12.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.0,
+        "y": 13.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.0,
+        "y": 14.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.0,
+        "y": 15.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.5,
+        "y": 1.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.5,
+        "y": 1.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.5,
+        "y": 2.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.5,
+        "y": 2.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.5,
+        "y": 3.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.5,
+        "y": 4.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.5,
+        "y": 7.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.5,
+        "y": 10.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.5,
+        "y": 11.0
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.5,
+        "y": 11.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.5,
+        "y": 12.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.5,
+        "y": 13.5
+      }
+    },
+    {
+      "bName": "basic",
+      "pos": {
+        "x": 2.5,
+        "y": 14.5
+      }
+    },
+    {
+      "bName": "lazer",
+      "pos": {
+        "x": 0.0,
+        "y": 2.5
+      }
+    },
+    {
+      "bName": "lazer",
+      "pos": {
+        "x": 0.0,
+        "y": 11.5
+      }
+    },
+    {
+      "bName": "rotaeter",
+      "pos": {
+        "x": -2.0,
+        "y": 8.0
+      }
+    },
+    {
+      "bName": "rotaeter",
+      "pos": {
+        "x": 0.0,
+        "y": 3.5
+      }
+    },
+    {
+      "bName": "rotaeter",
+      "pos": {
+        "x": 0.0,
+        "y": 12.5
+      }
+    },
+    {
+      "bName": "rotaeter",
+      "pos": {
+        "x": 2.0,
+        "y": 8.0
+      }
+    }
+  ],
+  "stageName": "Stage 48",
+  "ballAmt": 50,
+  "ballPool": 60,
+  "brkLife": [ 20, 25, 30, 35, 40, 45, 50 ],
+  "ballSize": 0.15000000596046449,
+  "brickSize": 0.5
+}
